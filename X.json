@@ -219,9 +219,12 @@
 {"name": "📢┃联合直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/user_result.txt","playerType": 1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name": "🦸┃tang直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","playerType": 1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name": "🍚┃自家源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live.m3u","playerType":1},
+{"name": "🚘┃自家源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/XlllllX-IPTV/main/live_ipv.m3u","playerType":1},
+
 {"name": "🐸┃Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u","playerType":1},
 {"name": "🍾┃Kilvn直播","type":0,"url":"https://live.kilvn.com/iptv.m3u","playerType":1},
-	
+
+{"name": "🍵┃Collect-IPTV直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u","playerType":1},
 {"name": "👑┃big直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u","playerType":1},
 {"name": "🐻┃CF-IPTV直播","type":0,"url":"https://git.gra.phite.ro/alantang/CF-IPTV/raw/branch/main/allinone.m3u","playerType":1},
 {"name": "🤿┃mytvsources直播","type":0,"url":"https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-CU-ipv6.m3u","playerType":1},
