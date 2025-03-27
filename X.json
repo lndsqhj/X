@@ -9,7 +9,7 @@
 {"key":"豆","name":"🎁┃豆瓣┃影视","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"原创","name":"🧧┃修罗┃影视","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"白白","name":"🐟┃素白┃秒播","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"神车","name":"🍉┃瓜子┃秒播","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},
+{"key":"Guazi","name":"🍉┃瓜子┃秒播","type":3,"api":"csp_Guazi","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext": "","jar":"./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a"},
 {"key":"Xiaomi","name":"🍚┃PG┃小米","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI","jar":"./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a"},
 {"key": "至臻","name": "💌┃️至臻┃影视","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN","jar":"./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a"},	
 {"key":"蜡笔网盘","name":"🖍️┃蜡笔┃网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI","jar":"./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a"},
@@ -49,10 +49,9 @@
 {"key": "hitv","name": "🎸┃Hitv┃影视","type": 3,"api": "./py/py_hitv.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 {"key": "xpg","name": "🐽┃XPG┃影视","type": 3,"api": "./py/py_xpg.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	
 {"key": "剧多短剧","name": "🎥┃剧多┃短剧","type": 3,"api": "./py/py_剧多短剧.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
-	
-{"key":"Youtube","name":"🦄️┃Youtube┃🦄️","type":3,"api": "csp_Youtube","searchable": 1,"quickSearch": 0,"changeable": 0,"jar": "./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a","ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary","proxy":"proxy","codecs":""},"style": {"type": "rect","ratio": 1.5}},
+//{"key":"Youtube","name":"🦄️┃Youtube┃🦄️","type":3,"api": "csp_Youtube","searchable": 1,"quickSearch": 0,"changeable": 0,"jar": "./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a","ext":{"json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary","proxy":"proxy","codecs":""},"style": {"type": "rect","ratio": 1.5}},
 {"key":"Bili","name":"🅱┃哔哩┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
-{"key":"界界影视","name":"🐌┃界界┃影视","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+//{"key":"界界影视","name":"🐌┃界界┃影视","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 	
 
 ##搜索系列
@@ -218,7 +217,7 @@
 {"name": "🐶┃jun直播","type": 0,"url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/Alan_result.txt","playerType": 1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name": "🥭┃aktvspace直播","type": 0,"url": "http://aktv.space/live.m3u","playerType":1},
 {"name": "🍔┃IPTV_auto直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.m3u","playerType":1},		
-{"name": "🎏┃台湾LITV直播","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py","ext": {"proxy": {"http": "http://127.0.0.1:10809","https": "http://127.0.0.1:10809"}}},
+{"name": "🎏┃台湾LITV直播","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py","ext": {"proxy": {"http": "http://127.0.0.1:10809","https": "http://127.0.0.1:10809"}}},
 {"name": "🏎️┃A自家源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/Collect-IPTV/refs/heads/main/mylive.m3u","playerType":1},	
 {"name": "🚗┃B自家源直播","type":0,"url":"https://git.gra.phite.ro/alantang/X/raw/branch/main/live.m3u","playerType":1},
 {"name": "🚘┃C自家源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/auto-iptv/main/live_ipv4.txt","playerType":1},
@@ -226,7 +225,7 @@
 {"name": "🚜┃E自家源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/live/main/mylive.txt","playerType":1},
 {"name": "🍕┃F自家源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/mytv.m3u","playerType":1},
 
-//{"name": "📢┃联合直播","type": 0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/user_result.txt","playerType": 1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name": "📢┃联合直播","type": 0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/YoutubeTV/main/YoutubeTV.txt","playerType": 1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
 	
 {"name": "🐸┃Yuanz港·澳·台直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u","playerType":1},
 {"name": "🍾┃Kilvn直播","type":0,"url":"https://live.kilvn.com/iptv.m3u","playerType":1},
@@ -240,7 +239,6 @@
 	
 {"name": "🚌┃hipy直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt","playerType":1},
 {"name": "🚎┃xhztv·IPTV直播","type":0,"url":"http://xhztv.top/zbc.txt","playerType":1},
-{"name": "🚍┃kilvn直播","type":0,"url":"https://live.kilvn.com/iptv.m3u","playerType":1},
 {"name": "🚑┃auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
 	
 {"name": "🤗┃Biptv直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/biptv.txt","playerType":1},
@@ -275,7 +273,7 @@
 {"name": "⚕️┃iptv粤Live","type": 0,"url": "http://box.1890222.xyz:8081/iptv/live.m3u","playerType":1},
 {"name": "🐰┃wwb521粤港澳","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
 {"name": "🍡┃kimwang1978直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output_simple.txt","playerType":1},
-{"name": "✨┃六一云直播","type": 0,"url": "https://www.now61.com/s/0l6FA/text?name=iptv.txt","playerType":1},	
+//{"name": "✨┃六一云直播","type": 0,"url": "https://www.now61.com/s/0l6FA/text?name=iptv.txt","playerType":1},	
 {"name": "🎁┃migu直播","type": 0,"url": "https://json.doube.eu.org/live/migu/Sub.php","playerType":1},
 {"name": "🍟┃Kimentanm直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":1},
 //{"name": "🎗️┃ipv4直播","type": 0,"url": "https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt","playerType":1},
